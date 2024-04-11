@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7b0cb2fcc02f466f8ba9595161a4cd1c/artifacts
+end_time: 1712869198145
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b0cb2fcc02f466f8ba9595161a4cd1c
+run_name: bittersweet-colt-614
+run_uuid: 7b0cb2fcc02f466f8ba9595161a4cd1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712869153301
+status: 3
+tags: []
+user_id: root

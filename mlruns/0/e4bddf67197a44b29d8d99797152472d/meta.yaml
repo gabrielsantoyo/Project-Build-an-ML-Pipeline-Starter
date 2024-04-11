@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e4bddf67197a44b29d8d99797152472d/artifacts
+end_time: 1712786032041
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4bddf67197a44b29d8d99797152472d
+run_name: awesome-loon-273
+run_uuid: e4bddf67197a44b29d8d99797152472d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712786015144
+status: 3
+tags: []
+user_id: root

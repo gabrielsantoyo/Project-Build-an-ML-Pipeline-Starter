@@ -1,0 +1,10 @@
+2024-04-11 13:53:22,134 Minimum price: 10, Maximum price: 350
+2024-04-11 13:53:22,142 Preparing sklearn pipeline
+Traceback (most recent call last):
+  File "/root/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 303, in <module>
+    go(args)
+  File "/root/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 69, in go
+    sk_pipe, processed_features = get_inference_pipeline(rf_config, args.max_tfidf_features)
+  File "/root/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 170, in get_inference_pipeline
+    non_ordinal_categorical_preproc = make_pipeline(
+TypeError: make_pipeline() got an unexpected keyword argument 'steps'

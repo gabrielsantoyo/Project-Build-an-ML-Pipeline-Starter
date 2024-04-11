@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/deffbe5ab95a4dedaf7bff23d86b5095/artifacts
+end_time: 1712868809389
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: deffbe5ab95a4dedaf7bff23d86b5095
+run_name: serious-mule-909
+run_uuid: deffbe5ab95a4dedaf7bff23d86b5095
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712868720678
+status: 4
+tags: []
+user_id: root

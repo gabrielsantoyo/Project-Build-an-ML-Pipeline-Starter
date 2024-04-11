@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/635b927d5b94421f87e777c46168ff92/artifacts
+end_time: 1712791753314
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 635b927d5b94421f87e777c46168ff92
+run_name: sedate-foal-159
+run_uuid: 635b927d5b94421f87e777c46168ff92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712791752651
+status: 4
+tags: []
+user_id: root

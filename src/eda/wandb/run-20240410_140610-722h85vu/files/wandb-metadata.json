@@ -1,0 +1,124 @@
+{
+    "os": "Linux-5.10.16.3-microsoft-standard-WSL2-x86_64-with-glibc2.34",
+    "python": "3.9.15",
+    "heartbeatAt": "2024-04-10T21:06:11.472205",
+    "startedAt": "2024-04-10T21:06:10.894797",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "src/eda/eda.ipynb",
+    "root": "/root/Project-Build-an-ML-Pipeline-Starter",
+    "git": {
+        "remote": "https://github.com/gabrielsantoyo/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "077621b0ed54d88e8c2f5ef3dea7b725c4ea7c98"
+    },
+    "email": "hannahrichardxo@gmail.com",
+    "host": "Han-PC",
+    "username": "root",
+    "executable": "/root/miniconda3/envs/nyc_airbnb_dev/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 3799.991999999999,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3799.992,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3799.992,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3799.992,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3799.992,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3799.992,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3799.992,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3799.992,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3799.992,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3799.992,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3799.992,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3799.992,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3799.992,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3799.992,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3799.992,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3799.992,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3799.992,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 250.98248672485352,
+        "used": 31.382144927978516
+    },
+    "gpu": "NVIDIA GeForce RTX 3070",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3070",
+            "memory_total": 8589934592
+        }
+    ],
+    "memory": {
+        "total": 12.389514923095703
+    }
+}

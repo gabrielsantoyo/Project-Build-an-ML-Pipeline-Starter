@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/be95fe6a9e5344028718fbeb6430e6cb/artifacts
+end_time: 1712792357211
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be95fe6a9e5344028718fbeb6430e6cb
+run_name: tasteful-elk-626
+run_uuid: be95fe6a9e5344028718fbeb6430e6cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712792356219
+status: 4
+tags: []
+user_id: root

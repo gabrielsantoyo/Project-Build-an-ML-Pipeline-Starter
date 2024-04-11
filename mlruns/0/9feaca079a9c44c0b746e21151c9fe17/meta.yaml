@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9feaca079a9c44c0b746e21151c9fe17/artifacts
+end_time: 1712786650218
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9feaca079a9c44c0b746e21151c9fe17
+run_name: wistful-dolphin-922
+run_uuid: 9feaca079a9c44c0b746e21151c9fe17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712786621404
+status: 4
+tags: []
+user_id: root

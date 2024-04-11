@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/61ed8a4d506341828b2aaa322936dc11/artifacts
+end_time: 1712780699674
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 61ed8a4d506341828b2aaa322936dc11
+run_name: adaptable-doe-666
+run_uuid: 61ed8a4d506341828b2aaa322936dc11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712780698890
+status: 4
+tags: []
+user_id: root

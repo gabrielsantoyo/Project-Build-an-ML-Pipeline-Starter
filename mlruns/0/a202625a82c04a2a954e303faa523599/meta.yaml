@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a202625a82c04a2a954e303faa523599/artifacts
+end_time: 1712856331808
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a202625a82c04a2a954e303faa523599
+run_name: defiant-moth-992
+run_uuid: a202625a82c04a2a954e303faa523599
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712856274072
+status: 4
+tags: []
+user_id: root

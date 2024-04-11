@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/83cefcaa5b594fa48595fec619b0065e/artifacts
+end_time: 1712856391701
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 83cefcaa5b594fa48595fec619b0065e
+run_name: adorable-squid-512
+run_uuid: 83cefcaa5b594fa48595fec619b0065e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712856390740
+status: 4
+tags: []
+user_id: root

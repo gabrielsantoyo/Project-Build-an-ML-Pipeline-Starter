@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/692381209b8345819b28afe0b078c36b/artifacts
+end_time: 1712792893832
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 692381209b8345819b28afe0b078c36b
+run_name: intrigued-sow-579
+run_uuid: 692381209b8345819b28afe0b078c36b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712792893075
+status: 4
+tags: []
+user_id: root

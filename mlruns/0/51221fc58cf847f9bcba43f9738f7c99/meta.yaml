@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/51221fc58cf847f9bcba43f9738f7c99/artifacts
+end_time: 1712794610896
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51221fc58cf847f9bcba43f9738f7c99
+run_name: serious-gnu-623
+run_uuid: 51221fc58cf847f9bcba43f9738f7c99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712794610141
+status: 4
+tags: []
+user_id: root

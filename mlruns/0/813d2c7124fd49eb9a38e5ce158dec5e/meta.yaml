@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/813d2c7124fd49eb9a38e5ce158dec5e/artifacts
+end_time: 1712787317188
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 813d2c7124fd49eb9a38e5ce158dec5e
+run_name: gaudy-hound-112
+run_uuid: 813d2c7124fd49eb9a38e5ce158dec5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712787220054
+status: 3
+tags: []
+user_id: root

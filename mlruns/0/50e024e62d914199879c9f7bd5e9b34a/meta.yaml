@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/50e024e62d914199879c9f7bd5e9b34a/artifacts
+end_time: 1712860940176
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50e024e62d914199879c9f7bd5e9b34a
+run_name: valuable-tern-777
+run_uuid: 50e024e62d914199879c9f7bd5e9b34a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712860939431
+status: 4
+tags: []
+user_id: root

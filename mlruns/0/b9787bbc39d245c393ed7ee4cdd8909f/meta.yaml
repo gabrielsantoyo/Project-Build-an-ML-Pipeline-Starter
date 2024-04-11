@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b9787bbc39d245c393ed7ee4cdd8909f/artifacts
+end_time: 1712792593002
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b9787bbc39d245c393ed7ee4cdd8909f
+run_name: learned-ox-51
+run_uuid: b9787bbc39d245c393ed7ee4cdd8909f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712792592017
+status: 4
+tags: []
+user_id: root

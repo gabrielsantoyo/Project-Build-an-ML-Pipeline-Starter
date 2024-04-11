@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0e4b59160edb4249a72f53713638cd53/artifacts
+end_time: 1712785604718
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0e4b59160edb4249a72f53713638cd53
+run_name: mysterious-skunk-947
+run_uuid: 0e4b59160edb4249a72f53713638cd53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712785587621
+status: 4
+tags: []
+user_id: root

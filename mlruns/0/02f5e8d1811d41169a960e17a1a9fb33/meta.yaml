@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/02f5e8d1811d41169a960e17a1a9fb33/artifacts
+end_time: 1712859535207
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 02f5e8d1811d41169a960e17a1a9fb33
+run_name: masked-loon-734
+run_uuid: 02f5e8d1811d41169a960e17a1a9fb33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712859481746
+status: 4
+tags: []
+user_id: root

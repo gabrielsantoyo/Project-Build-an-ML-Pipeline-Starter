@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4952c171b6914de5839d05d7fbc3df30/artifacts
+end_time: 1712861208885
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4952c171b6914de5839d05d7fbc3df30
+run_name: beautiful-gnu-716
+run_uuid: 4952c171b6914de5839d05d7fbc3df30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712861208184
+status: 4
+tags: []
+user_id: root

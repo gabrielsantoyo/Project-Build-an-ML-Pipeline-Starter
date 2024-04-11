@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/1f68f04065ea4c5f8e23bf59b3227d5a/artifacts
+end_time: 1712786819674
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f68f04065ea4c5f8e23bf59b3227d5a
+run_name: nervous-moth-871
+run_uuid: 1f68f04065ea4c5f8e23bf59b3227d5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712786810627
+status: 3
+tags: []
+user_id: root

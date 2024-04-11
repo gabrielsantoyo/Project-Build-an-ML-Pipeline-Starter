@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/129f00b3a45649228eb602b82c47b73f/artifacts
+end_time: 1712870984979
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 129f00b3a45649228eb602b82c47b73f
+run_name: intrigued-ant-498
+run_uuid: 129f00b3a45649228eb602b82c47b73f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712870868667
+status: 3
+tags: []
+user_id: root

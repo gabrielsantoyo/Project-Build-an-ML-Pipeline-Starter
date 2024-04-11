@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/edbf0b0a89494bfc877e53333880e065/artifacts
+end_time: 1712870984880
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: edbf0b0a89494bfc877e53333880e065
+run_name: suave-stag-141
+run_uuid: edbf0b0a89494bfc877e53333880e065
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712870879476
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8217763155d74a6199146c8849b0dd55/artifacts
+end_time: 1712723525876
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8217763155d74a6199146c8849b0dd55
+run_name: resilient-quail-760
+run_uuid: 8217763155d74a6199146c8849b0dd55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712723525118
+status: 4
+tags: []
+user_id: root

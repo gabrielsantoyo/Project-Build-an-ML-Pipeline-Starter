@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9aac8e792d9b44d288c5c6d1e67dc831/artifacts
+end_time: 1712793051567
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9aac8e792d9b44d288c5c6d1e67dc831
+run_name: incongruous-wasp-78
+run_uuid: 9aac8e792d9b44d288c5c6d1e67dc831
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712793048742
+status: 4
+tags: []
+user_id: root

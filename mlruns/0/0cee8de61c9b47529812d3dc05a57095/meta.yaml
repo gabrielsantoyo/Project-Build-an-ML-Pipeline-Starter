@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0cee8de61c9b47529812d3dc05a57095/artifacts
+end_time: 1712786031923
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0cee8de61c9b47529812d3dc05a57095
+run_name: burly-trout-745
+run_uuid: 0cee8de61c9b47529812d3dc05a57095
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712786016509
+status: 3
+tags: []
+user_id: root

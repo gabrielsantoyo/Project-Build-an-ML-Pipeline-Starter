@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a441671c1b084a5fbf50fa2d82daa2d9/artifacts
+end_time: 1712857953546
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a441671c1b084a5fbf50fa2d82daa2d9
+run_name: orderly-pig-952
+run_uuid: a441671c1b084a5fbf50fa2d82daa2d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712857950765
+status: 4
+tags: []
+user_id: root

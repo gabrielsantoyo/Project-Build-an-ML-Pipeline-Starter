@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/cacefeb68be549df9a68cc390cf1fa69/artifacts
+end_time: 1712791874181
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cacefeb68be549df9a68cc390cf1fa69
+run_name: suave-vole-298
+run_uuid: cacefeb68be549df9a68cc390cf1fa69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712791873207
+status: 4
+tags: []
+user_id: root

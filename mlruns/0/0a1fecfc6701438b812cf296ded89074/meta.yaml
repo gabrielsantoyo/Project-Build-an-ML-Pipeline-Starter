@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0a1fecfc6701438b812cf296ded89074/artifacts
+end_time: 1712794657917
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0a1fecfc6701438b812cf296ded89074
+run_name: skittish-penguin-32
+run_uuid: 0a1fecfc6701438b812cf296ded89074
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712794657166
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/08ca7ca24ad8418883700f853f40057b/artifacts
+end_time: 1712860343215
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 08ca7ca24ad8418883700f853f40057b
+run_name: nebulous-newt-31
+run_uuid: 08ca7ca24ad8418883700f853f40057b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712860312290
+status: 4
+tags: []
+user_id: root

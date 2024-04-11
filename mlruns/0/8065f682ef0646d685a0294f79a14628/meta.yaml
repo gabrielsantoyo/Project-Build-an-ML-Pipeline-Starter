@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8065f682ef0646d685a0294f79a14628/artifacts
+end_time: 1712857725883
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8065f682ef0646d685a0294f79a14628
+run_name: merciful-swan-358
+run_uuid: 8065f682ef0646d685a0294f79a14628
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712857723109
+status: 4
+tags: []
+user_id: root

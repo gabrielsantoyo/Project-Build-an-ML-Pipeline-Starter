@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/557d9087b9bd40e3af7d143ee10bbfc8/artifacts
+end_time: 1712856331997
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 557d9087b9bd40e3af7d143ee10bbfc8
+run_name: debonair-fowl-441
+run_uuid: 557d9087b9bd40e3af7d143ee10bbfc8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712856240193
+status: 4
+tags: []
+user_id: root

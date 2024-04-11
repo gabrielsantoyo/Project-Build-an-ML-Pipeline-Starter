@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6c45bfcdbaaa4c5b8ceeb28b2ccee90a/artifacts
+end_time: 1712791253359
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c45bfcdbaaa4c5b8ceeb28b2ccee90a
+run_name: capricious-owl-149
+run_uuid: 6c45bfcdbaaa4c5b8ceeb28b2ccee90a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712791160287
+status: 4
+tags: []
+user_id: root

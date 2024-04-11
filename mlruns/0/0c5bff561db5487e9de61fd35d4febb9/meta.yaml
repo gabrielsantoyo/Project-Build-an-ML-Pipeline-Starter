@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0c5bff561db5487e9de61fd35d4febb9/artifacts
+end_time: 1712791611313
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c5bff561db5487e9de61fd35d4febb9
+run_name: bold-mink-38
+run_uuid: 0c5bff561db5487e9de61fd35d4febb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712791608469
+status: 4
+tags: []
+user_id: root

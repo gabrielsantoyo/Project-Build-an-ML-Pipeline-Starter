@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8114b3a4375d4aa1886f9e2a2f8a10d7/artifacts
+end_time: 1712856880390
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8114b3a4375d4aa1886f9e2a2f8a10d7
+run_name: loud-trout-671
+run_uuid: 8114b3a4375d4aa1886f9e2a2f8a10d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712856825027
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8316d89ebbae4151af421d9e73efb447/artifacts
+end_time: 1712856880558
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8316d89ebbae4151af421d9e73efb447
+run_name: silent-crab-903
+run_uuid: 8316d89ebbae4151af421d9e73efb447
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712856792994
+status: 4
+tags: []
+user_id: root

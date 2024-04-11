@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/2a261c0a06374897aeaebe079915fb4a/artifacts
+end_time: 1712857467708
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a261c0a06374897aeaebe079915fb4a
+run_name: whimsical-kit-325
+run_uuid: 2a261c0a06374897aeaebe079915fb4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712857412658
+status: 4
+tags: []
+user_id: root

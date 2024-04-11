@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/eeaf6db783314088a19b64c88fdfaf72/artifacts
+end_time: 1712792593158
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eeaf6db783314088a19b64c88fdfaf72
+run_name: stately-gnu-51
+run_uuid: eeaf6db783314088a19b64c88fdfaf72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712792590346
+status: 4
+tags: []
+user_id: root

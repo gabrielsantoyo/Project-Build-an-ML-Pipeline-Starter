@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/21161fd94b9a4e1eb559ec36cd531d2e/artifacts
+end_time: 1712785700841
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 21161fd94b9a4e1eb559ec36cd531d2e
+run_name: beautiful-auk-878
+run_uuid: 21161fd94b9a4e1eb559ec36cd531d2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712785698266
+status: 4
+tags: []
+user_id: root

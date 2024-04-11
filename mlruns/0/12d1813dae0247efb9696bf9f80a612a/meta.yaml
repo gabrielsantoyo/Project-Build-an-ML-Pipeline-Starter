@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/12d1813dae0247efb9696bf9f80a612a/artifacts
+end_time: 1712856196794
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 12d1813dae0247efb9696bf9f80a612a
+run_name: colorful-jay-227
+run_uuid: 12d1813dae0247efb9696bf9f80a612a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712856158501
+status: 4
+tags: []
+user_id: root

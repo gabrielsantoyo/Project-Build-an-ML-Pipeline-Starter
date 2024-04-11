@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5ca66cc0c6b2477d83eaeafd07f70bc0/artifacts
+end_time: 1712861420979
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ca66cc0c6b2477d83eaeafd07f70bc0
+run_name: nebulous-squirrel-91
+run_uuid: 5ca66cc0c6b2477d83eaeafd07f70bc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712861420278
+status: 4
+tags: []
+user_id: root

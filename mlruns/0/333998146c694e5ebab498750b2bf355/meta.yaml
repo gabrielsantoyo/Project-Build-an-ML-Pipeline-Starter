@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/333998146c694e5ebab498750b2bf355/artifacts
+end_time: 1712859335231
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 333998146c694e5ebab498750b2bf355
+run_name: blushing-shrike-129
+run_uuid: 333998146c694e5ebab498750b2bf355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712859334490
+status: 4
+tags: []
+user_id: root

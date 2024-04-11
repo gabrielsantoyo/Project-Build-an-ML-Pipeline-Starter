@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/596f04e9279b4195971baaf00305b3da/artifacts
+end_time: 1712786819777
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 596f04e9279b4195971baaf00305b3da
+run_name: stylish-vole-146
+run_uuid: 596f04e9279b4195971baaf00305b3da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712786809264
+status: 3
+tags: []
+user_id: root

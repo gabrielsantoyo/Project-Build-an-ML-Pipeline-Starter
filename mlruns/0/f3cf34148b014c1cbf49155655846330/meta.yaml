@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f3cf34148b014c1cbf49155655846330/artifacts
+end_time: 1712723253531
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3cf34148b014c1cbf49155655846330
+run_name: honorable-gull-124
+run_uuid: f3cf34148b014c1cbf49155655846330
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712723252754
+status: 4
+tags: []
+user_id: root

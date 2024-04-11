@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4bd2b1fd91324b91beba6631c40805c5/artifacts
+end_time: 1712794472905
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4bd2b1fd91324b91beba6631c40805c5
+run_name: unique-bass-82
+run_uuid: 4bd2b1fd91324b91beba6631c40805c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712794439586
+status: 4
+tags: []
+user_id: root

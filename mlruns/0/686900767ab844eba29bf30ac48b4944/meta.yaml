@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/686900767ab844eba29bf30ac48b4944/artifacts
+end_time: 1712857953396
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 686900767ab844eba29bf30ac48b4944
+run_name: enthused-grub-500
+run_uuid: 686900767ab844eba29bf30ac48b4944
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712857952420
+status: 4
+tags: []
+user_id: root

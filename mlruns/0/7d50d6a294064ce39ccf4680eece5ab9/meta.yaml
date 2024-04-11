@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7d50d6a294064ce39ccf4680eece5ab9/artifacts
+end_time: 1712859236093
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d50d6a294064ce39ccf4680eece5ab9
+run_name: auspicious-mule-179
+run_uuid: 7d50d6a294064ce39ccf4680eece5ab9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712859204883
+status: 4
+tags: []
+user_id: root

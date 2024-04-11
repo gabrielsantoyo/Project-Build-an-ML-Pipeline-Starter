@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/2d5c40f1b0a846568b9336be41d7b779/artifacts
+end_time: 1712858151835
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2d5c40f1b0a846568b9336be41d7b779
+run_name: rumbling-dolphin-909
+run_uuid: 2d5c40f1b0a846568b9336be41d7b779
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712858150860
+status: 4
+tags: []
+user_id: root

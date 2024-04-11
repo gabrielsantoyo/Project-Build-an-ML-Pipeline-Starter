@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e06b79edb9004a51bc0b2f61353fa342/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e06b79edb9004a51bc0b2f61353fa342
+run_name: hilarious-auk-774
+run_uuid: e06b79edb9004a51bc0b2f61353fa342
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712856671559
+status: 1
+tags: []
+user_id: root

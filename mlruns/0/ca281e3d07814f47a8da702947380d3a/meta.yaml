@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ca281e3d07814f47a8da702947380d3a/artifacts
+end_time: 1712792437033
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca281e3d07814f47a8da702947380d3a
+run_name: abundant-bear-202
+run_uuid: ca281e3d07814f47a8da702947380d3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712792436036
+status: 4
+tags: []
+user_id: root

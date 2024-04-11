@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6e1510f2251f478582b860f2c095ca23/artifacts
+end_time: 1712868809550
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e1510f2251f478582b860f2c095ca23
+run_name: nimble-conch-769
+run_uuid: 6e1510f2251f478582b860f2c095ca23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712868665624
+status: 4
+tags: []
+user_id: root
