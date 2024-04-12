@@ -1,4 +1,5 @@
-# weights and biases public project link: https://wandb.ai/gsan/nyc_airbnb?nw=nwusergabrielsantoyogs
+## weights and biases public project link: https://wandb.ai/gsan/nyc_airbnb?nw=nwusergabrielsantoyogs
+## repo link: https://github.com/gabrielsantoyo/Project-Build-an-ML-Pipeline-Starter
 
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
 You are working for a property management company renting rooms and properties for short periods of 
