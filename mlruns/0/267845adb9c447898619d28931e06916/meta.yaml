@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/267845adb9c447898619d28931e06916/artifacts
+end_time: 1712893624530
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 267845adb9c447898619d28931e06916
+run_name: glamorous-dog-659
+run_uuid: 267845adb9c447898619d28931e06916
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712893597315
+status: 4
+tags: []
+user_id: root

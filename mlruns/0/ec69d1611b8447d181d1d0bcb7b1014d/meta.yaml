@@ -1,0 +1,15 @@
+artifact_uri: file:///root/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ec69d1611b8447d181d1d0bcb7b1014d/artifacts
+end_time: 1712893597307
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec69d1611b8447d181d1d0bcb7b1014d
+run_name: persistent-elk-763
+run_uuid: ec69d1611b8447d181d1d0bcb7b1014d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712893562691
+status: 3
+tags: []
+user_id: root
